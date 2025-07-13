@@ -4,32 +4,32 @@ import { type Veterinarian } from './types';
 export const LOCAL_VETS: Veterinarian[] = [
   {
     id: 1,
-    name: 'Greenwood Pet Hospital',
-    phone: '(555) 123-4567',
-    address: '123 Healthy Pet Lane, Greenwood, USA',
+    name: 'Animal Wellness Veterinary Clinic',
+    phone: '(032) 253-6839',
+    address: 'Unit 5, The Strip, Osmeña Blvd, Cebu City, Cebu',
   },
   {
     id: 2,
-    name: 'Oak Creek Animal Clinic',
-    phone: '(555) 987-6543',
-    address: '456 Oak Creek Rd, Meadowville, USA',
+    name: 'Cebu Veterinary Doctors',
+    phone: '(032) 233-1839',
+    address: 'Gov. M. Cuenco Ave, Cebu City, Cebu',
   },
   {
     id: 3,
-    name: 'City Paws Veterinary',
-    phone: '(555) 234-5678',
-    address: '789 Downtown Ave, Metropolis, USA',
+    name: 'The Pet Mobile Veterinary Clinic',
+    phone: '+63 917 777 7738',
+    address: 'Talamban Rd, Cebu City, Cebu',
   },
   {
     id: 4,
-    name: 'Bayside Animal Hospital',
-    phone: '(555) 876-5432',
-    address: '101 Waterfront Way, Bayside, USA',
+    name: 'Aycardo Veterinary Center',
+    phone: '(032) 412-5248',
+    address: '17-A M. Velez St, Cebu City, Cebu',
   },
   {
     id: 5,
-    name: 'Sunrise Veterinary Care',
-    phone: '(555) 345-6789',
-    address: '210 Morning Glory Dr, Sunnyside, USA',
+    name: 'Pets in the City Veterinary Clinic',
+    phone: '(032) 266-0639',
+    address: 'J. Alcantara St, Cebu City, Cebu',
   }
 ];
